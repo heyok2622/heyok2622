@@ -1,16 +1,21 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Park%20HyunWoo&fontSize=90)
 
-<!--
-**heyok2622/heyok2622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Stats
+![heyok2622's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyok2622&count_private=true&show_icons=true&theme=darcula)
 
-Here are some ideas to get you started:
+# Top used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyok2622)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# I usually use....
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=FFE400"/></a> 
+<img src="https://img.shields.io/badge/Java-000000?style=flat&logo=Java&logoColor=FA7343"/></a>
+
+# I lraening....
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=FA7343"/></a> 
+<img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=4A8AC5"/></a>
+<img src="https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=4A8AC5"/></a>
+<img src="https://img.shields.io/badge/JavaScript-FFFF00?style=flat&logo=JavaScript&logoColor=white"/></a> 
+
+# Contact
+- Discord : oruk_06
