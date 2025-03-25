@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Park%20HyunWoo&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Park%20JaeHyeok&fontSize=90)
 
 # Stats
 ![heyok2622's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyok2622&count_private=true&show_icons=true&theme=darcula)
