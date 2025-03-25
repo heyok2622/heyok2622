@@ -8,10 +8,9 @@
 
 # I usually use....
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=FFE400"/></a> 
-<img src="https://img.shields.io/badge/Java-000000?style=flat&logo=Java&logoColor=FA7343"/></a>
+<img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=FA7343"/></a>
 
 # I lraening....
-<img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=FA7343"/></a> 
 <img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=4A8AC5"/></a>
 <img src="https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=4A8AC5"/></a>
