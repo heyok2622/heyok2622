@@ -7,8 +7,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyok2622)
 
 # I usually use....
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=FFE400"/></a> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-white?style=flat&logo=openjdk&logoColor=000000&color=%23FF6433">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=FFE400"/></a> 
 
 # I lraening....
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=FA7343"/></a> 
