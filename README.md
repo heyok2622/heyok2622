@@ -11,8 +11,6 @@
 
 # I lraening....
 <img alt="Static Badge" src="https://img.shields.io/badge/VB.NET-passing?style=flat&logo=dotnet&logoColor=FFFFFF&color=%238A2BE2"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-passing?style=flat&logo=html5&logoColor=FFFFFF&color=%23E34F26"> <img alt="Static Badge" src="https://img.shields.io/badge/C-passing?style=flat&logo=c&logoColor=FFFFFF&color=%2300599C">
-<img src="https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=4A8AC5"/></a>
-<img src="https://img.shields.io/badge/JavaScript-FFFF00?style=flat&logo=JavaScript&logoColor=white"/></a> 
 
 # Contact
 - Discord : oruk_06
