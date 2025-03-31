@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=FFE400"/></a> 
 
 # I lraening....
+<img alt="Static Badge" src="https://img.shields.io/badge/VB.NET-passing?style=flat&logo=dotnet&logoColor=FFFFFF&color=%238A2BE2">
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=FA7343"/></a> 
 <img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=4A8AC5"/></a>
 <img src="https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=4A8AC5"/></a>
