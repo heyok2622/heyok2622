@@ -12,7 +12,9 @@
 # I lraening....
 <p><img alt="Static Badge" src="https://img.shields.io/badge/VB.NET-passing?style=flat&logo=dotnet&logoColor=FFFFFF&color=%238A2BE2"> 
  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-passing?style=flat&logo=html5&logoColor=FFFFFF&color=%23E34F26"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/C-passing?style=flat&logo=c&logoColor=FFFFFF&color=%2300599C"></p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/C-passing?style=flat&logo=c&logoColor=FFFFFF&color=%2300599C">
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-passing?style=flat&logo=javascript&logoColor=%23FFF&labelColor=%23F7DF1E&color=%23F7DF1E">
+</p>
 
 # Contact
 - Discord : oruk_06
